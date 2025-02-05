@@ -1,2 +1,5 @@
-// Learning File: @.c
-// Created on 
+#include <stdio.h>
+int main() {
+    printf("Hello, World!\n");
+    return 0;
+}

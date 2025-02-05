@@ -1,2 +1,9 @@
-// Learning File: for_loop.c
-// Created on 
+#include <stdio.h>
+int main() {
+    printf("Numbers 1 to 10:\n");
+    for (int i = 1; i <= 10; i++) {
+        printf("%d ", i);
+    }
+    printf("\n");
+    return 0;
+}
