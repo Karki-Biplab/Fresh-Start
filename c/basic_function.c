@@ -1,2 +1,9 @@
-// Learning File: basic_function.c
-// Created on 2025-06-15 15:53:51
+#include <stdio.h>
+int add(int a, int b) {
+    return a + b;
+}
+int main() {
+    int result = add(5, 3);
+    printf("5 + 3 = %d\n", result);
+    return 0;
+}
