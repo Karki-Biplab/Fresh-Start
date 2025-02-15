@@ -1,2 +1,10 @@
-// Learning File: basic_array.c
-// Created on 2025-06-15 15:58:09
+#include <stdio.h>
+int main() {
+    int arr[5] = {1, 2, 3, 4, 5};
+    printf("Array elements: ");
+    for (int i = 0; i < 5; i++) {
+        printf("%d ", arr[i]);
+    }
+    printf("\n");
+    return 0;
+}
