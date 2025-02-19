@@ -1,2 +1,11 @@
-// Learning File: array_sum.c
-// Created on 2025-06-15 15:58:54
+#include <stdio.h>
+int main() {
+    int arr[] = {10, 20, 30, 40, 50};
+    int sum = 0, size = sizeof(arr) / sizeof(arr[0]);
+    
+    for (int i = 0; i < size; i++) {
+        sum += arr[i];
+    }
+    printf("Sum of array: %d\n", sum);
+    return 0;
+}
