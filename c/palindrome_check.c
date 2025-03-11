@@ -1,2 +1,24 @@
-// Learning File: palindrome_check.c
-// Created on 2025-06-15 16:06:05
+#include <stdio.h>
+#include <string.h>
+#include <ctype.h>
+int isPalindrome(char str[]) {
+    int len = strlen(str);
+    for (int i = 0; i < len/2; i++) {
+        if (tolower(str[i]) != tolower(str[len-1-i])) {
+            return 0;
+        }
+    }
+    return 1;
+}
+int main() {
+    char str[100];
+    printf("Enter a string: ");
+    gets(str);
+    
+    if (isPalindrome(str)) {
+        printf("'%s' is a palindrome\n", str);
+    } else {
+        printf("'%s' is not a palindrome\n", str);
+    }
+    return 0;
+}
