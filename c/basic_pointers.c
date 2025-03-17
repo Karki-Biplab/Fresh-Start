@@ -1,2 +1,11 @@
-// Learning File: basic_pointers.c
-// Created on 2025-06-15 16:07:33
+#include <stdio.h>
+int main() {
+    int num = 42;
+    int *ptr = &num;
+    
+    printf("Value of num: %d\n", num);
+    printf("Address of num: %p\n", &num);
+    printf("Value of ptr: %p\n", ptr);
+    printf("Value pointed by ptr: %d\n", *ptr);
+    return 0;
+}
