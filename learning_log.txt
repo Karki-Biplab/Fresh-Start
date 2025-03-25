@@ -5,3 +5,26 @@
 [2025-06-15 15:41:49] c - for_loop.c - @
 [2025-06-15 15:42:32] c - while_loop.c - practicing
 [2025-06-15 15:47:47] c - while_loop2.c - Uploading all cde files
+[2025-06-15 15:53:00] c - do_while.c - Nothing
+[2025-06-15 15:53:51] c - basic_function.c - Leqarnig Functions
+[2025-06-15 15:54:24] c - factorial.c - SDbjs
+[2025-06-15 15:55:08] c - fibonacci.c - Sddsj
+[2025-06-15 15:56:03]  - prime_check.c - Dbaj
+[2025-06-15 15:57:16] c - 15_gcd_lcm.c - skj
+[2025-06-15 15:58:09] c - basic_array.c - No
+[2025-06-15 15:58:54] c - array_sum.c - No thing
+[2025-06-15 15:59:32] c - array_search.c - No thing dude
+[2025-06-15 16:00:24] c - bubble_sort.c - MO sfmnsdj
+[2025-06-15 16:02:02] c - matrix_operations.c - JAsdjdbas
+[2025-06-15 16:03:00] c - string_basics.c - Jsdba
+[2025-06-15 16:03:45] c - string_compare.c - Sjdbsa
+[2025-06-15 16:05:34] c - string_reverse.c - Ska
+[2025-06-15 16:06:05] c - palindrome_check.c - LAl
+[2025-06-15 16:06:52] c - word_count.c - SKja
+[2025-06-15 16:07:33] c - basic_pointers.c - YWj
+[2025-06-15 16:08:05] c - pointer_arithmetic.c - LJdhjsa
+[2025-06-15 16:08:36] c - swap_using_pointers.c - AHjah
+[2025-06-15 16:09:12] c - dynamic_memory.c - Jhkjqw
+[2025-06-15 16:10:18] c - pointer_to_pointer.c - drgd
+[2025-06-15 16:10:59] c - (No new file) - 
+[2025-06-15 16:11:23] c - (No new file) - 
